@@ -1,0 +1,23 @@
+'''Given a positive integer n, count all possible distinct binary strings of length n such that there are no consecutive 1’s.
+
+Examples :
+
+Input: n = 3
+Output: 5
+Explanation: 5 strings are ("000", "001", "010", "100", "101").
+Input: n = 2
+Output: 3
+Explanation: 3 strings are ("00", "01", "10").
+Input: n = 1
+Output: 2
+Constraints:
+1 ≤ n ≤ 44
+'''
+# Solution:- 
+
+class Solution:
+    def countStrings(self, n):
+        a, b = 1, 2
+        for _ in range(n):
+            a, b = b, a + b
+        return a
