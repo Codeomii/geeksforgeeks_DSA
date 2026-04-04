@@ -71,7 +71,7 @@ GFG-POTD/
 |-----|------------|------|--------|
 | 01  | 01-04-2026 |Consecutive 1's not allowed | ✅ Done |
 | 02  | 02-04-2026 |Painting the Fence| ✅ Done |
-| 03  | 03-04-2026 | --   | ⏳ Ongoing |
+| 03  | 03-04-2026 |Print Diagonally | ✅ Done |
 
 > 🔄 Updated daily without fail
 
