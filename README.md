@@ -67,12 +67,12 @@ GFG-POTD/
 
 ## 📅 Progress Tracker
 
-| Day | Date       | Topic | Status |
-|-----|------------|------|--------|
-| 01  | 01-04-2026 |Consecutive 1's not allowed | ✅ Done |
-| 02  | 02-04-2026 |Painting the Fence| ✅ Done |
-| 03  | 03-04-2026 |Print Diagonally | ✅ Done |
-| 04  | 04-04-2026 |Gray code | ✅ Done |
+| Day | Date       | Topic/Problem |Source| Status |
+|-----|------------|------|--------|--------|
+| 01  | 01-04-2026 |Consecutive 1's not allowed |[Link🔗](https://www.geeksforgeeks.org/problems/consecutive-1s-not-allowed1912/1)| ✅ Done |
+| 02  | 02-04-2026 |Painting the Fence|[Link🔗](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)| ✅ Done |
+| 03  | 03-04-2026 |Print Diagonally |[Link🔗](https://www.geeksforgeeks.org/problems/print-diagonally4331/1)| ✅ Done |
+| 04  | 04-04-2026 |Gray code |[Link🔗](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
