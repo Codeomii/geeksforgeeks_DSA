@@ -73,6 +73,8 @@ GFG-POTD/
 | 02  | 02-04-2026 |Painting the Fence|[Link🔗](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)| ✅ Done |
 | 03  | 03-04-2026 |Print Diagonally |[Link🔗](https://www.geeksforgeeks.org/problems/print-diagonally4331/1)| ✅ Done |
 | 04  | 04-04-2026 |Gray code |[Link🔗](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1)| ✅ Done |
+| 05  | 05-04-2026 |Target Sum |[Link🔗](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1)| ✅ Done |
+
 
 > 🔄 Updated daily without fail
 
