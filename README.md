@@ -75,7 +75,6 @@ GFG-POTD/
 | 04  | 04-04-2026 |Gray code |[Link🔗](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1)| ✅ Done |
 | 05  | 05-04-2026 |Target Sum |[Link🔗](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1)| ✅ Done |
 
-
 > 🔄 Updated daily without fail
 
 ---
