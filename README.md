@@ -74,6 +74,7 @@ GFG-POTD/
 | 03  | 03-04-2026 |Print Diagonally |[Link🔗](https://www.geeksforgeeks.org/problems/print-diagonally4331/1)| ✅ Done |
 | 04  | 04-04-2026 |Gray code |[Link🔗](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1)| ✅ Done |
 | 05  | 05-04-2026 |Target Sum |[Link🔗](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1)| ✅ Done |
+| 06  | 06-04-2026 |Huffman Encoding |[Link🔗](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
