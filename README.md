@@ -75,6 +75,9 @@ GFG-POTD/
 | 04  | 04-04-2026 |Gray code |[Link🔗](https://www.geeksforgeeks.org/problems/gray-code-1611215248/1)| ✅ Done |
 | 05  | 05-04-2026 |Target Sum |[Link🔗](https://www.geeksforgeeks.org/problems/target-sum-1626326450/1)| ✅ Done |
 | 06  | 06-04-2026 |Huffman Encoding |[Link🔗](https://www.geeksforgeeks.org/problems/huffman-encoding3345/1)| ✅ Done |
+| 07  | 07-04-2026 |Stable Marriage Problem|[Link🔗](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1)| ✅ Done |
+| 08  | 08-04-2026 |Segregate 0s and 1s|[Link🔗](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)| ✅ Done |
+| 09  | 09-04-2026 |Intersection of Two Sorted Arrays|[Link🔗](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
