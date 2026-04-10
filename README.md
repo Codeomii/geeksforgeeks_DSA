@@ -78,6 +78,7 @@ GFG-POTD/
 | 07  | 07-04-2026 |Stable Marriage Problem|[Link🔗](https://www.geeksforgeeks.org/problems/stable-marriage-problem/1)| ✅ Done |
 | 08  | 08-04-2026 |Segregate 0s and 1s|[Link🔗](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)| ✅ Done |
 | 09  | 09-04-2026 |Intersection of Two Sorted Arrays|[Link🔗](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1)| ✅ Done |
+| 10  | 10-04-2026 |Sorted subsequence of size 3|[Link🔗](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
