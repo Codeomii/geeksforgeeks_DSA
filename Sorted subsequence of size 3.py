@@ -1,0 +1,55 @@
+'''Given an array arr[], find any subsequence of three elements such that, arr[i] < arr[j] < arr[k] and (i < j < k).
+
+If such a subsequence exists, return the three elements as an array. Otherwise, return an empty array.
+
+Note:
+
+The driver code will print 1 if the returned subsequence is valid and present in the array.
+The driver code will print 0 if no such subsequence exists.
+If the returned subsequence does not satisfy the required format or conditions, the output will be -1.
+Examples :
+
+Input: arr[] = [12, 11, 10, 5, 6, 2, 30]
+Output: 1
+Explanation: As 5 < 6 < 30, and they  appear in the same sequence in the array. So output is 1.
+Input: arr[] = [1, 2, 3, 4]
+Output: 1 
+Explanation: As the array is sorted, for every i, j, k, where i < j < k, arr[i] < arr[j] < arr[k].So output is 1.
+Input: arr[] = [4, 3, 2, 1]
+Output: 0
+Explanation: No such Subsequence exist, so empty array is returned (the driver code automatically prints 0 in this case).
+Constraints:
+1 ≤ arr.size() ≤ 105
+1 ≤ arr[i] ≤ 106
+
+'''
+# Solution:--
+
+class Solution:
+    def find3Numbers(self, arr):
+        n = len(arr)
+        
+        left = [0]*n
+        right = [0]*n
+        
+        mn = arr[0]
+        for i in range(n):
+            if arr[i] <= mn:
+                mn = arr[i]
+                left[i] = -1
+            else:
+                left[i] = mn
+        
+        mx = arr[-1]
+        for i in range(n-1, -1, -1):
+            if arr[i] >= mx:
+                mx = arr[i]
+                right[i] = -1
+            else:
+                right[i] = mx
+        
+        for i in range(n):
+            if left[i] != -1 and right[i] != -1:
+                return [left[i], arr[i], right[i]]
+        
+        return []
