@@ -79,7 +79,8 @@ GFG-POTD/
 | 08  | 08-04-2026 |Segregate 0s and 1s|[Link🔗](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)| ✅ Done |
 | 09  | 09-04-2026 |Intersection of Two Sorted Arrays|[Link🔗](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-arrays-with-duplicate-elements/1)| ✅ Done |
 | 10  | 10-04-2026 |Sorted subsequence of size 3|[Link🔗](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1)| ✅ Done |
-
+| 11  | 11-04-2026 |Count increasing Subarrays|[Link🔗](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1)| ✅ Done |
+| 12  | 12-04-2026 |Toeplitz matrix|[Link🔗](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
