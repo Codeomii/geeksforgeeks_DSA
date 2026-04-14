@@ -81,6 +81,8 @@ GFG-POTD/
 | 10  | 10-04-2026 |Sorted subsequence of size 3|[Link🔗](https://www.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1)| ✅ Done |
 | 11  | 11-04-2026 |Count increasing Subarrays|[Link🔗](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1)| ✅ Done |
 | 12  | 12-04-2026 |Toeplitz matrix|[Link🔗](https://www.geeksforgeeks.org/problems/toeplitz-matrix/1)| ✅ Done |
+| 13  | 13-04-2026 |Next Smallest Palindrome|[Link🔗](https://www.geeksforgeeks.org/problems/next-smallest-palindrome4740/1)| ✅ Done |
+| 14  | 14-04-2026 |Remove Spaces|[Link🔗](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
