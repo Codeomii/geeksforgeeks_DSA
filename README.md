@@ -85,6 +85,7 @@ GFG-POTD/
 | 14  | 14-04-2026 |Remove Spaces|[Link🔗](https://www.geeksforgeeks.org/problems/remove-spaces0128/1)| ✅ Done |
 | 15  | 15-04-2026 |URLify a given string|[Link🔗](https://www.geeksforgeeks.org/problems/urlify-a-given-string--141625/1)| ✅ Done |
 | 16  | 16-04-2026 |Implement Atoi|[Link🔗](https://www.geeksforgeeks.org/problems/implement-atoi/1)| ✅ Done |
+| 17  | 17-04-2026 |Anagram Palindrome|[Link🔗](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
