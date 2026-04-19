@@ -87,6 +87,7 @@ GFG-POTD/
 | 16  | 16-04-2026 |Implement Atoi|[Link🔗](https://www.geeksforgeeks.org/problems/implement-atoi/1)| ✅ Done |
 | 17  | 17-04-2026 |Anagram Palindrome|[Link🔗](https://www.geeksforgeeks.org/problems/anagram-palindrome4720/1)| ✅ Done |
 | 18  | 18-04-2026 |Flip to Maximize 1s|[Link🔗](https://www.geeksforgeeks.org/problems/flip-bits0240/1)| ✅ Done |
+| 19  | 19-04-2026 |Check for Power|[Link🔗](https://www.geeksforgeeks.org/problem-of-the-day)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
