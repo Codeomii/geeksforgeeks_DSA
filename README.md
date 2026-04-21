@@ -89,6 +89,7 @@ GFG-POTD/
 | 18  | 18-04-2026 |Flip to Maximize 1s|[Link🔗](https://www.geeksforgeeks.org/problems/flip-bits0240/1)| ✅ Done |
 | 19  | 19-04-2026 |Check for Power|[Link🔗](https://www.geeksforgeeks.org/problem-of-the-day)| ✅ Done |
 | 20  | 20-04-2026 |Count Derangements|[Link🔗](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1)| ✅ Done |
+| 21  | 21-04-2026 |Two water Jug problem|[Link🔗](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
