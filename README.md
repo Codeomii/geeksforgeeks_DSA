@@ -90,6 +90,7 @@ GFG-POTD/
 | 19  | 19-04-2026 |Check for Power|[Link🔗](https://www.geeksforgeeks.org/problem-of-the-day)| ✅ Done |
 | 20  | 20-04-2026 |Count Derangements|[Link🔗](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1)| ✅ Done |
 | 21  | 21-04-2026 |Two water Jug problem|[Link🔗](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1)| ✅ Done |
+| 22  | 22-04-2026 |Mean of range in array|[Link🔗](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
