@@ -91,6 +91,7 @@ GFG-POTD/
 | 20  | 20-04-2026 |Count Derangements|[Link🔗](https://www.geeksforgeeks.org/problems/dearrangement-of-balls0918/1)| ✅ Done |
 | 21  | 21-04-2026 |Two water Jug problem|[Link🔗](https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1)| ✅ Done |
 | 22  | 22-04-2026 |Mean of range in array|[Link🔗](https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1)| ✅ Done |
+| 23  | 23-04-2026 |Two Equal Sum Subarrays|[Link🔗](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
