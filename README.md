@@ -94,6 +94,7 @@ GFG-POTD/
 | 23  | 23-04-2026 |Two Equal Sum Subarrays|[Link🔗](https://www.geeksforgeeks.org/problems/split-an-array-into-two-equal-sum-subarrays/1)| ✅ Done |
 | 24  | 24-04-2026 |Buildings with Sunlight|[Link🔗](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1)| ✅ Done |
 | 25  | 25-04-2026 |Opposite Sign Pair Reduction|[Link🔗](https://www.geeksforgeeks.org/problems/asteroid-collision/1)| ✅ Done |
+| 26  | 26-04-2026 |Common in 3 Sorted Arrays|[Link🔗](https://www.geeksforgeeks.org/problems/common-elements1132/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
