@@ -35,3 +35,4 @@ class Solution:
             while i<n and j>=0:
                 res.append(mat[i][j]);i+=1;j-=1
         return res
+    
