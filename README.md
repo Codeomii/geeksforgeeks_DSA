@@ -95,6 +95,7 @@ GFG-POTD/
 | 24  | 24-04-2026 |Buildings with Sunlight|[Link🔗](https://www.geeksforgeeks.org/problems/buildings-receiving-sunlight3032/1)| ✅ Done |
 | 25  | 25-04-2026 |Opposite Sign Pair Reduction|[Link🔗](https://www.geeksforgeeks.org/problems/asteroid-collision/1)| ✅ Done |
 | 26  | 26-04-2026 |Common in 3 Sorted Arrays|[Link🔗](https://www.geeksforgeeks.org/problems/common-elements1132/1)| ✅ Done |
+| 27  | 27-04-2026 |Smallest window containing 0, 1 and 2|[Link🔗](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
