@@ -97,6 +97,8 @@ GFG-POTD/
 | 26  | 26-04-2026 |Common in 3 Sorted Arrays|[Link🔗](https://www.geeksforgeeks.org/problems/common-elements1132/1)| ✅ Done |
 | 27  | 27-04-2026 |Smallest window containing 0, 1 and 2|[Link🔗](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)| ✅ Done |
 | 28  | 28-04-2026 |Longest Repeating Character Replacement|[Link🔗](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1)| ✅ Done |
+| 29  | 29-04-2026 |Min Swaps to Group 1s|[Link🔗](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1)| ✅ Done |
+
 
 > 🔄 Updated daily without fail
 
