@@ -98,6 +98,8 @@ GFG-POTD/
 | 27  | 27-04-2026 |Smallest window containing 0, 1 and 2|[Link🔗](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1)| ✅ Done |
 | 28  | 28-04-2026 |Longest Repeating Character Replacement|[Link🔗](https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1)| ✅ Done |
 | 29  | 29-04-2026 |Min Swaps to Group 1s|[Link🔗](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1)| ✅ Done |
+| 30  | 30-04-2026 |Check if an Array is Max Heap|[Link🔗](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)| ✅ Done |
+| 01  | 01-05-2026 |Kth Largest in a Stream|[Link🔗](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
