@@ -100,6 +100,8 @@ GFG-POTD/
 | 29  | 29-04-2026 |Min Swaps to Group 1s|[Link🔗](https://www.geeksforgeeks.org/problems/minimum-swaps-required-to-group-all-1s-together2451/1)| ✅ Done |
 | 30  | 30-04-2026 |Check if an Array is Max Heap|[Link🔗](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1)| ✅ Done |
 | 01  | 01-05-2026 |Kth Largest in a Stream|[Link🔗](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)| ✅ Done |
+| 02  | 02-05-2026 |Position of the Set Bit|[Link🔗](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)| ✅ Done |
+| 03  | 03-05-2026 |Sort by Set Bit Count|[Link🔗](https://www.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
