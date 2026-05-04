@@ -102,7 +102,7 @@ GFG-POTD/
 | 01  | 01-05-2026 |Kth Largest in a Stream|[Link🔗](https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1)| ✅ Done |
 | 02  | 02-05-2026 |Position of the Set Bit|[Link🔗](https://www.geeksforgeeks.org/problems/find-position-of-set-bit3706/1)| ✅ Done |
 | 03  | 03-05-2026 |Sort by Set Bit Count|[Link🔗](https://www.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1)| ✅ Done |
-
+| 04  | 04-05-2026 |Palindrome Binary|[Link🔗](https://www.geeksforgeeks.org/problems/palindrome-numbers0942/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
