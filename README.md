@@ -110,6 +110,8 @@ GFG-POTD/
 | 03  | 03-05-2026 |Sort by Set Bit Count|[Link🔗](https://www.geeksforgeeks.org/problems/sort-by-set-bit-count1153/1)| ✅ Done |
 | 04  | 04-05-2026 |Palindrome Binary|[Link🔗](https://www.geeksforgeeks.org/problems/palindrome-numbers0942/1)| ✅ Done |
 | 05  | 05-05-2026 |Sum of XOR of all pairs|[Link🔗](https://www.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1)| ✅ Done |
+| 06  | 06-05-2026 |Size of Binary Tree|[Link🔗](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1)| ✅ Done |
+| 07  | 07-05-2026 |Check if subtree|[Link🔗](https://www.geeksforgeeks.org/problems/check-if-subtree/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
