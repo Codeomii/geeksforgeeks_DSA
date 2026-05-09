@@ -112,6 +112,7 @@ GFG-POTD/
 | 05  | 05-05-2026 |Sum of XOR of all pairs|[Link🔗](https://www.geeksforgeeks.org/problems/sum-of-xor-of-all-pairs0723/1)| ✅ Done |
 | 06  | 06-05-2026 |Size of Binary Tree|[Link🔗](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1)| ✅ Done |
 | 07  | 07-05-2026 |Check if subtree|[Link🔗](https://www.geeksforgeeks.org/problems/check-if-subtree/1)| ✅ Done |
+| 08  | 08-05-2026 |Remove Invalid Parentheses|[Link🔗](https://www.geeksforgeeks.org/problems/remove-invalid-parentheses/1)| ✅ Done |
 
 
 > 🔄 Updated daily without fail
