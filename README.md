@@ -113,7 +113,8 @@ GFG-POTD/
 | 06  | 06-05-2026 |Size of Binary Tree|[Link🔗](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1)| ✅ Done |
 | 07  | 07-05-2026 |Check if subtree|[Link🔗](https://www.geeksforgeeks.org/problems/check-if-subtree/1)| ✅ Done |
 | 08  | 08-05-2026 |Remove Invalid Parentheses|[Link🔗](https://www.geeksforgeeks.org/problems/remove-invalid-parentheses/1)| ✅ Done |
-
+| 09  | 09-05-2026 |Count Spanning Trees in a Graph|[Link🔗](https://www.geeksforgeeks.org/problems/total-number-of-spanning-trees-in-a-graph/1)| ✅ Done |
+| 10  | 10-05-2026 |Max Profit from Two Machines|[Link🔗](https://www.geeksforgeeks.org/problems/max-profit-from-two-machines/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
