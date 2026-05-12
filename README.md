@@ -115,6 +115,8 @@ GFG-POTD/
 | 08  | 08-05-2026 |Remove Invalid Parentheses|[Link🔗](https://www.geeksforgeeks.org/problems/remove-invalid-parentheses/1)| ✅ Done |
 | 09  | 09-05-2026 |Count Spanning Trees in a Graph|[Link🔗](https://www.geeksforgeeks.org/problems/total-number-of-spanning-trees-in-a-graph/1)| ✅ Done |
 | 10  | 10-05-2026 |Max Profit from Two Machines|[Link🔗](https://www.geeksforgeeks.org/problems/max-profit-from-two-machines/1)| ✅ Done |
+| 11  | 11-05-2026 |Palindrome Pairs|[Link🔗](https://www.geeksforgeeks.org/problems/palindrome-pairs/1)| ✅ Done |
+| 12  | 12-05-2026 |Range LCM Queries|[Link🔗](https://www.geeksforgeeks.org/problems/range-lcm-queries3348/1)| ✅ Done |
 
 > 🔄 Updated daily without fail
 
