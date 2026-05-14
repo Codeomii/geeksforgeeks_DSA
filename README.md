@@ -117,6 +117,9 @@ GFG-POTD/
 | 10  | 10-05-2026 |Max Profit from Two Machines|[Link🔗](https://www.geeksforgeeks.org/problems/max-profit-from-two-machines/1)| ✅ Done |
 | 11  | 11-05-2026 |Palindrome Pairs|[Link🔗](https://www.geeksforgeeks.org/problems/palindrome-pairs/1)| ✅ Done |
 | 12  | 12-05-2026 |Range LCM Queries|[Link🔗](https://www.geeksforgeeks.org/problems/range-lcm-queries3348/1)| ✅ Done |
+| 13  | 13-05-2026 |Mother Vertex|[Link🔗](https://www.geeksforgeeks.org/problems/mother-vertex/1)| ✅ Done |
+| 14  | 14-05-2026 |Search for Subarray|[Link🔗](https://www.geeksforgeeks.org/problems/search-for-subarray/1)| ✅ Done |
+
 
 > 🔄 Updated daily without fail
 
